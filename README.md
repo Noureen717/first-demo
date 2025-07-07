@@ -1,3 +1,4 @@
 # first-demo
-This is my first git repository
-Author-Noureen Fatima
+This is my first git repository.
+<Br>
+Author-Noureen Fatima.
